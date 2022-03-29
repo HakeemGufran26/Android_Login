@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/drawable/login.xml" value="0.21510416666666668" />
+        <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/layout/activity_home.xml" value="0.1" />
         <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/layout/activity_kedua.xml" value="0.1484375" />
+        <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/layout/activity_lihat_data.xml" value="0.33" />
         <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/layout/item_listview.xml" value="0.25" />
         <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/layout/layout_menu.xml" value="0.20052083333333334" />
         <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/tugas kuliah/semester 4/PAM Ngulang/Activity 1/app/src/main/res/menu/popup_menu.xml" value="0.1361111111111111" />
       </map>
     </option>
   </component>
